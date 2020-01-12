@@ -1,2 +1,0 @@
-# Excaliburn
-Uas_PemrogramanMobile_Takehome
